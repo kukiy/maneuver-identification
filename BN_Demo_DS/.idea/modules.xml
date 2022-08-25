@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BN_Demo_DS.iml" filepath="$PROJECT_DIR$/.idea/BN_Demo_DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RFC_Demo_DS/.idea/RNN_Demo_DS.iml" filepath="$PROJECT_DIR$/../RFC_Demo_DS/.idea/RNN_Demo_DS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../数据/特征分析数据/数据处理/.idea/数据处理.iml" filepath="$PROJECT_DIR$/../../数据/特征分析数据/数据处理/.idea/数据处理.iml" />
+    </modules>
+  </component>
+</project>
